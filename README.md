@@ -1,5 +1,4 @@
-Author: Marwa AlAlawi 
-Email: malalawi@mit.edu 
+Author: Marwa AlAlawi  | Email: malalawi@mit.edu 
 
 
 -------------System Requirements----------------
