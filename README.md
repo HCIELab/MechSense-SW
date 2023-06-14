@@ -68,4 +68,4 @@ MechSense has three main commands in its UI:
 1) If the face of the geometry has holes (not the hole for the shaft but holes for fasteners etc) or other features that are extrude cut then this may interfere with the generator and the resulting geometry may look wrong; 
 
 
-Note: This has only been tested on one laptop (MSI, Windows). In case something isn't working, it might be an assignment for some local paths that I have missed to bring up in the READ ME file. 
+Note: This has not been extensively tested beyond one laptop. In case something isn't working, it is highly likely to be an assignment for a local paths that I have missed to bring up in the READ ME file. 
