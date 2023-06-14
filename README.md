@@ -56,13 +56,13 @@ MechSense has three main commands in its UI:
 
 -----------Accessing File/folder for modification ----------------
 
-	- Open the VS file "Tracegenerator.sln"
-	- Please make sure you are running this as admin, or else you will get build errors (access denied)
-	- If dependencies codestack.SWex is missing: Manage Nuget Libraries--> browse--> look up both .AddIn and .PMpage
-	- Make sure you have .NETframework V4.6+ installed (otheriwse will not work) 
-	- Make sure that in VS hierearchy, and under "References" that all three solidworks interop files have embedded interop type set to "false"
-	- Ensure that build file set to "register for COM interop" in build* (right click--> properties)
-	- AddIn.cs houses majority of functional code. All the other .cs files house UI related code and are accessed by AddIn.cs;
+- Open the VS file "Tracegenerator.sln"
+- Please make sure you are running this as admin, or else you will get build errors (access denied)
+- If dependencies codestack.SWex is missing: Manage Nuget Libraries--> browse--> look up both .AddIn and .PMpage
+- Make sure you have .NETframework V4.6+ installed (otheriwse will not work) 
+- Make sure that in VS hierearchy, and under "References" that all three solidworks interop files have embedded interop type set to "false"
+- Ensure that build file set to "register for COM interop" in build* (right click--> properties)
+- AddIn.cs houses majority of functional code. All the other .cs files house UI related code and are accessed by AddIn.cs;
 
 ---Limitations ---- 
 
