@@ -55,6 +55,8 @@ MechSense has three main commands in its UI:
 
 
 -----------Accessing File/folder for modification ----------------
+
+
 	- Open the VS file "Tracegenerator.sln"
 	- Please make sure you are running this as admin, or else you will get build errors (access denied)
 	- If dependencies codestack.SWex is missing: Manage Nuget Libraries--> browse--> look up both .AddIn and .PMpage
